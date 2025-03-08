@@ -1,5 +1,5 @@
 # Offline-Pay - Offline-transactions
-# Disclaimer - The above uploaded project is just a **DEMO**, I currently working on the project..
+# Disclaimer - The above uploaded project is just a **DEMO**, I am currently working on the project..
 
 ## **📌 Project Overview**
 
