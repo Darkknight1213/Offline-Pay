@@ -1,9 +1,7 @@
 # Offline-Pay - Offline-transactions
 # Disclaimer - The above uploaded project is just a **DEMO**, I am currently working on the project..
 
----
 ### To execute the program intall the apk file in your phone
----
 
 ## **📌 Project Overview**
 
@@ -156,7 +154,7 @@ Before proceeding, the system performs **multi-layered validation:**
 ## **📌 App Demo**
 
 📸 **Screenshots:**
-![image](https://github.com/user-attachments/assets/e06290b5-b261-4888-9490-bb5c261895c8)
+![image](https://github.com/user-attachments/assets/b25380aa-0e85-49ee-98f0-a8a406284e36)
 
 
 ---
