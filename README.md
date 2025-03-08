@@ -1,6 +1,10 @@
 # Offline-Pay - Offline-transactions
 # Disclaimer - The above uploaded project is just a **DEMO**, I am currently working on the project..
 
+---
+### To execute the program intall the apk file in your phone
+---
+
 ## **📌 Project Overview**
 
 💡 **Introducing an AI-powered offline payment system that works without the Internet!** With our revolutionary multi-method approach, users can securely send money even in remote areas, using:
